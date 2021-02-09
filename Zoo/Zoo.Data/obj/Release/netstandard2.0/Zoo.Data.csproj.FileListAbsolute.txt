@@ -1,0 +1,9 @@
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\bin\Release\netstandard2.0\Zoo.Data.deps.json
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\bin\Release\netstandard2.0\Zoo.Data.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\bin\Release\netstandard2.0\Zoo.Data.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\obj\Release\netstandard2.0\Zoo.Data.csprojAssemblyReference.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\obj\Release\netstandard2.0\Zoo.Data.AssemblyInfoInputs.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\obj\Release\netstandard2.0\Zoo.Data.AssemblyInfo.cs
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\obj\Release\netstandard2.0\Zoo.Data.csproj.CoreCompileInputs.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\obj\Release\netstandard2.0\Zoo.Data.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo.Data\obj\Release\netstandard2.0\Zoo.Data.pdb

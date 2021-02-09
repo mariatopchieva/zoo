@@ -1,0 +1,24 @@
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Service.deps.json
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Service.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Service.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Data.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Data.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.csprojAssemblyReference.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.AssemblyInfoInputs.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.AssemblyInfo.cs
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.csproj.CoreCompileInputs.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.csproj.CopyComplete
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.pdb
+D:\IT Programming\C# projects\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Service.deps.json
+D:\IT Programming\C# projects\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Service.dll
+D:\IT Programming\C# projects\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Service.pdb
+D:\IT Programming\C# projects\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Data.dll
+D:\IT Programming\C# projects\Zoo\Zoo.Service\bin\Debug\netstandard2.0\Zoo.Data.pdb
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.csprojAssemblyReference.cache
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.AssemblyInfoInputs.cache
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.AssemblyInfo.cs
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.csproj.CoreCompileInputs.cache
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.csproj.CopyComplete
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.dll
+D:\IT Programming\C# projects\Zoo\Zoo.Service\obj\Debug\netstandard2.0\Zoo.Service.pdb

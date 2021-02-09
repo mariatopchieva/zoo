@@ -1,0 +1,130 @@
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Data.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Service.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Data.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Service.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.Manifest.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.xml
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Zoo.styles.css
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.RazorTargetAssemblyInfo.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CopyComplete
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mtopc\source\repos\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mtopc\source\repos\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\appsettings.json
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Data.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Service.dll
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Data.pdb
+D:\IT Programming\C# projects\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.Service.pdb
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csprojAssemblyReference.cache
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cs
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.Manifest.cache
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\staticwebassets\Zoo.StaticWebAssets.xml
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\scopedcss\bundle\Zoo.styles.css
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.RazorTargetAssemblyInfo.cache
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CopyComplete
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\IT Programming\C# projects\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
